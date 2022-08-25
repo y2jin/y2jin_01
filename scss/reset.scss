@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* reset.css */
+/*@font-face{font-family: 'Sunflower', sans-serif; src:url("../font/Sunflower/Sunflower-Light.ttf");}*/
+.hidden {
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  font-size: 0;
+}
+
+*, html, body, h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  color: #333;
+  font-family: 'Sunflower', sans-serif;
+}
+
+ul, ol, li {
+  list-style: none;
+  text-decoration: none; 
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+a:hover {
+  text-decoration:none;
+  color: #acc;
+}
+
+table, td, th {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+hr {
+  border-bottom: 1px solid #333;
+}
+
+//span{font-family:KaushanScript;}
+
+//*:focus {
+//  outline: 2px solid #fa0;
+//}
+
+input[type="text"], input[type="password"], textarea {
+  border: 1px solid #333;
+}
