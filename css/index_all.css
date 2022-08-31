@@ -2304,3 +2304,5 @@ article .content_wrap {
   }
   /*#arc_03 끝*/
 }
+/*공통 적용 속성_220901 추가*/
+#arc_03 .content_wrap .portfolio_list li a .pf_hover .pf_hover_txt01 {width:100%; margin:15px 0 0 0; color:#fff; font-weight:bold; text-align:center;}
