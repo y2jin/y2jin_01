@@ -1,7 +1,9 @@
 /* reset.css */
 /*@font-face{font-family: 'Sunflower', sans-serif; src:url("../font/Sunflower/Sunflower-Light.ttf");}*/
 /*@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
 .hidden {
   width: 0;
   height: 0;
