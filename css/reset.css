@@ -1,5 +1,6 @@
 /* reset.css */
 /*@font-face{font-family: 'Sunflower', sans-serif; src:url("../font/Sunflower/Sunflower-Light.ttf");}*/
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 .hidden {
   width: 0;
   height: 0;
@@ -13,7 +14,8 @@
   border: 0;
   outline: 0;
   color: #333;
-  font-family: 'Sunflower', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+  /*font-family: 'Sunflower', sans-serif;*/
 }
 
 ul, ol, li {
